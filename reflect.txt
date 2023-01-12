@@ -1,0 +1,7 @@
+Glenn Parreno
+115814196
+geparreno@myseneca.ca
+02/12/22
+
+
+	This project is a good compilation of everthing I have learned in this course. I think the implementation is not that hard however, it is hard to understand the instructions given in github so I had many confusions throughout the workshop. Another thing that I had difficulty with this workshop is that there is no lecture or course notes to base on. For example in most workshops going through the lecture and course notes can help you find the solution. In the project it is more of a culmination a test of what I have learned. Starting with milestone 1 I think it was simple and straight forward, I encountered an error implementing the constructor in Station.cpp that I easily fixed. It did took me a while to make the extractToken function in Utilities.cpp. I didnt set more to false when substr fails causes an infinite loop. Mileston 2 was the easiest one for me. Again there was some trouble with the constructor again, it was not a very dire error. Milestone 3 was the hardest. Two specific funtions were confusing, attemptToMoveOrder in Workstation.cpp and LineManager constructor. I found the instruction to be vague and tried to implement what I think the instruction wants. I was mostly successful but I had a big error. I was stuck on it so I asked the professor for help. He cleared up that I should have checked the quantity of products not in an else if but in an or statement like in Line 34 of Workstation.cpp.
